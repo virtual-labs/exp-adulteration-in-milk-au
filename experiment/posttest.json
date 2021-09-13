@@ -2,37 +2,73 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Lactometer reading of milk can be increased by adding:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Table sugar",
+        "b": "Ammonium Sulphate",
+        "c": "Starch",
+        "d": "Both a and b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "2.  The presence of salicylic acid is indicated by the formation of:",
+      "answers": {
+        "a": "Blue color",
+        "b": "Violet ring at the junction",
+        "c": "Violet color",
+        "d": "Pink color"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3.  Presence of microorganism in milk indicates:",
+      "answers": {
+        "a": "High acidity of milk",
+        "b": "Improper pasteurization",
+        "c": "High sugar content of milk",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4.  What does it indicate when color of the milk is changed from blue to white immediately after incubation ?",
+      "answers": {
+        "a": "Presence of large counts of bacteria in milk",
+        "b": "Absence of bacteria in milk",
+        "c": "Presence of bacteria in milk",
+        "d": "Presence of starch in milk"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "5.  The sugar present in milk is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sucrose",
+        "b": "Lactose",
+        "c": "Glucose",
+        "d": "Fructose"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
