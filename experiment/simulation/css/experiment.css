@@ -1,0 +1,22 @@
+#correct {
+	margin-left: 16%;
+    margin-top: -14%;
+}
+
+#wrong {
+	margin-left: 16%;
+    margin-top: -14%;
+}
+
+#correct_icon {
+	display:none;
+}
+
+#wrong_icon {
+	display:none;
+    margin-top: -6%;
+}
+
+#reset {
+	margin-bottom:9%;
+}
