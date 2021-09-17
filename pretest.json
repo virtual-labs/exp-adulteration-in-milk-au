@@ -1,0 +1,75 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  The reaction between methylene blue and microorganism present in milk is:",
+      "answers": {
+        "a": "Oxidation",
+        "b": "Reduction",
+        "c": "Dehydrogenation",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "2.  The presence of salicylic acid is indicated by the formation of:",
+      "answers": {
+        "a": "Blue color",
+        "b": "Violet ring at the junction",
+        "c": "Violet color",
+        "d": "Pink color"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3.  Why does the color change to pink when phenolphthalein indicator is added to milk ?",
+      "answers": {
+        "a": "Milk is adulterated with table sugar",
+        "b": "Milk is adulterated with Soap",
+        "c": "Milk is adulterated with benzoic acid",
+        "d": "Milk is adulterated with starch"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4.  What does it indicate when color of the milk is changed from blue to white immediately after incubation ?",
+      "answers": {
+        "a": "Presence of large counts of bacteria in milk",
+        "b": "Absence of bacteria in milk",
+        "c": "Presence of bacteria in milk",
+        "d": "Presence of starch in milk"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "5.  Milk is adulterated with acid for:",
+      "answers": {
+        "a": "To preserve the milk for longer period of time",
+        "b": "To increase the solid content of milk",
+        "c": "To increase the foaming of milk",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
